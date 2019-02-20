@@ -1,6 +1,5 @@
-# FRCFanonymous
-The anonymous FRCF model code for paper review
+# FCCF anonymous
 
-To run FRCF, use the command
+The anonymous FCCF code and supplementary material for paper review.
 
-  python FRCF.py
+
