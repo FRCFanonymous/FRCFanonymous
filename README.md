@@ -1,5 +1,5 @@
-# FG-DCF anonymous
+# FGCF anonymous
 
-The anonymous FG-DCF code and supplementary material for paper review.
+The anonymous FGCF code and supplementary material for paper review.
 
 
